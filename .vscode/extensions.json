@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "ms-python.autopep8",
+        "mikestead.dotenv",
+        "mitchdenny.ecdc",
+        "usernamehw.errorlens",
+        "ms-python.isort",
+        "visualstudioexptteam.vscodeintellicode",
+        "ms-python.mypy-type-checker",
+        "ms-vscode.live-server",
+        "ms-python.vscode-pylance",
+        "ms-python.python",
+        "ms-python.debugpy",
+        "vscode-icons-team.vscode-icons",
+        "redhat.vscode-yaml"
+    ]
+}
